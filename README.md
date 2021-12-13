@@ -1,2 +1,4 @@
 # anytimemeet
-It is clone of zoom like platform or meeting platforms. Through this we can connect virtually with video and audio feature. It offers high video resolution quality meeting also with chat message feature which is visible on the screen every time.
+The primary objective is to provide user-friendly video communication and online chat 
+services through peer-to-peer teleconferencing, telecommuting, and distance education, 
+thereby reducing the user's effort
